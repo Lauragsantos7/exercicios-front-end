@@ -1,0 +1,19 @@
+{
+  "name": "dia-01-exercicio",
+  "version": "1.0.0",
+  "description": "formulário",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "vite"
+  },
+  "keywords": [
+    "formulário"
+  ],
+  "author": "Laura Santos",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.7.0",
+    "vite": "^3.2.2"
+  }
+}
